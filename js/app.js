@@ -63,9 +63,47 @@ for (let i = 0; i < team.length; i++) {
 }
   
   
+  // metodo alernativo con funzione 
+  
+  // function gethtmlCard (teamMember){
+    //  const name = teamMember.name
+    //  const image = teamMember.image
+    //  const role = teamMember.role
+
+    //  return `
+    //  <div class="team-card">
+    //   <div class="card-image">
+    //     <img
+    //       src="img/${ image }"
+    //       alt="${ name }"
+    //     />
+    //   </div>
+    //   <div class="card-text">
+    //     <h3>${ name }</h3>
+    //     <p>${ role }</p>
+    //   </div>
+    // </div>`;
+ 
+  // }
   
   
+
+
+
+  // metodo alernativo con funzione  per aggiungere nuovo membro
   
+  // function newteamember (name role image){
+    //  const name = teamMember.name
+    //  const image = teamMember.image
+    //  const role = teamMember.role
+
+    //  return `
+    //  name = name
+    // image = image 
+    // role = role
+  // }
+
+  // }
   
-  
+  // const newMember = newteamember ('pippo,''image''role')
   
